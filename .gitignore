@@ -179,3 +179,8 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+Pacote-download/doco.py
+Pacote-download/main.py
+Pacote-download/Projeto-Cadastro-Sebo/
+Pacote-download/teste.py
+Pacote-download/Trabalho pessoais/
